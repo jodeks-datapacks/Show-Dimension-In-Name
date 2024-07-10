@@ -1,0 +1,77 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:painting"
+        },
+        "title": "Show Dimension In Name                                                                                                                  ",
+        "description": [
+          "",
+          {
+              "text": "Shows the dimension a player is in next to the name\n",
+              "color": "white"
+          },
+          {
+              "text": "\n",
+              "color": "yellow"
+          },
+          {
+              "text": "/trigger",
+              "color": "yellow"
+          },
+          {
+              "text": " help.sdin\n",
+              "color": "yellow"
+          },
+          {
+              "text": "for help.\n",
+              "color": "white"
+          },
+          {
+              "text": "\n",
+              "color": "green"
+          },
+          {
+              "text": "Datapack version: ",
+              "color": "dark_green"
+          },
+          {
+              "text": "v.2.2.0",
+              "color": "green"
+          },
+          {
+              "text": "\n",
+              "color": "green"
+          },
+          {
+              "text": "Game version: ",
+              "color": "dark_green"
+          },
+          {
+              "text": "1.21",
+              "color": "green"
+          },
+          {
+              "text": "\n",
+              "color": "green"
+          },
+          {
+              "text": "\n",
+              "color": "green"
+          },
+          {
+              "text": "modrinth.com/datapack/show-dimension-in-name",
+              "color": "dark_purple"
+          }
+      ],
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+    "parent": "jodek:utility",
+    "criteria": {
+        "tick": {
+            "trigger": "minecraft:tick"
+        }
+    }
+  }
+  
