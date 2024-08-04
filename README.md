@@ -107,6 +107,8 @@ default = green
 ```
 value = color --> look at color table
 
+value = 0 --> disabled / no prefix
+
 </details>
 
 <details>
@@ -121,6 +123,8 @@ default = red
 ```
 value = color --> look at color table
 
+value = 0 --> disabled / no prefix
+
 </details>
 
 <details>
@@ -134,6 +138,8 @@ default = dark_purple
 /scoreboard players set &prefix_color_sdin_end name_color.jodek value
 ```
 value = color --> look at color table
+
+value = 0 --> disabled / no prefix
 
 </details>
 

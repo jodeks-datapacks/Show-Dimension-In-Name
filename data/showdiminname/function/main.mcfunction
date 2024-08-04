@@ -13,3 +13,7 @@ execute as @a[tag=afkannouncer.afk] at @s[type=!parrot,type=!wolf,type=!cat,type
 scoreboard players enable @a help.sdin
 
 execute as @a if score @s help.sdin matches 1 run function showdiminname:trigger_help
+
+
+
+
