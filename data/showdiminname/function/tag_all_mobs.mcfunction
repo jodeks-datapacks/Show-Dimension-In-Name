@@ -3,86 +3,86 @@ schedule function showdiminname:tag_all_mobs 2s
 # also tag new players
 tag @a add ShowDimensionInName
 
-tag @e[type=allay,tag=!ShowDimensionInName] add ShowDimensionInName
-tag @e[type=axolotl,tag=!ShowDimensionInName] add ShowDimensionInName
-tag @e[type=armadillo,tag=!ShowDimensionInName] add ShowDimensionInName
-tag @e[type=bat,tag=!ShowDimensionInName] add ShowDimensionInName 
-tag @e[type=bee,tag=!ShowDimensionInName] add ShowDimensionInName 
-tag @e[type=blaze,tag=!ShowDimensionInName] add ShowDimensionInName 
-tag @e[type=bogged,tag=!ShowDimensionInName] add ShowDimensionInName 
-tag @e[type=breeze,tag=!ShowDimensionInName] add ShowDimensionInName 
-tag @e[type=cat,tag=!ShowDimensionInName] add ShowDimensionInName 
-tag @e[type=camel,tag=!ShowDimensionInName] add ShowDimensionInName 
-tag @e[type=cave_spider,tag=!ShowDimensionInName] add ShowDimensionInName 
-tag @e[type=chicken,tag=!ShowDimensionInName] add ShowDimensionInName 
-tag @e[type=cod,tag=!ShowDimensionInName] add ShowDimensionInName 
-tag @e[type=cow,tag=!ShowDimensionInName] add ShowDimensionInName 
-tag @e[type=creeper,tag=!ShowDimensionInName] add ShowDimensionInName 
-tag @e[type=dolphin,tag=!ShowDimensionInName] add ShowDimensionInName 
-tag @e[type=donkey,tag=!ShowDimensionInName] add ShowDimensionInName 
-tag @e[type=drowned,tag=!ShowDimensionInName] add ShowDimensionInName 
-tag @e[type=elder_guardian,tag=!ShowDimensionInName] add ShowDimensionInName 
-tag @e[type=enderman,tag=!ShowDimensionInName] add ShowDimensionInName 
-tag @e[type=endermite,tag=!ShowDimensionInName] add ShowDimensionInName 
-tag @e[type=evoker,tag=!ShowDimensionInName] add ShowDimensionInName 
-tag @e[type=fox,tag=!ShowDimensionInName] add ShowDimensionInName 
-tag @e[type=frog,tag=!ShowDimensionInName] add ShowDimensionInName 
-tag @e[type=ghast,tag=!ShowDimensionInName] add ShowDimensionInName 
-tag @e[type=glow_squid,tag=!ShowDimensionInName] add ShowDimensionInName 
-tag @e[type=goat,tag=!ShowDimensionInName] add ShowDimensionInName 
-tag @e[type=guardian,tag=!ShowDimensionInName] add ShowDimensionInName 
-tag @e[type=hoglin,tag=!ShowDimensionInName] add ShowDimensionInName 
-tag @e[type=horse,tag=!ShowDimensionInName] add ShowDimensionInName 
-tag @e[type=husk,tag=!ShowDimensionInName] add ShowDimensionInName 
-tag @e[type=illusioner,tag=!ShowDimensionInName] add ShowDimensionInName 
-tag @e[type=iron_golem,tag=!ShowDimensionInName] add ShowDimensionInName 
-tag @e[type=llama,tag=!ShowDimensionInName] add ShowDimensionInName 
-tag @e[type=magma_cube,tag=!ShowDimensionInName] add ShowDimensionInName 
-tag @e[type=mooshroom,tag=!ShowDimensionInName] add ShowDimensionInName 
-tag @e[type=mule,tag=!ShowDimensionInName] add ShowDimensionInName 
-tag @e[type=ocelot,tag=!ShowDimensionInName] add ShowDimensionInName 
-tag @e[type=panda,tag=!ShowDimensionInName] add ShowDimensionInName 
-tag @e[type=parrot,tag=!ShowDimensionInName] add ShowDimensionInName 
-tag @e[type=phantom,tag=!ShowDimensionInName] add ShowDimensionInName 
-tag @e[type=pig,tag=!ShowDimensionInName] add ShowDimensionInName 
-tag @e[type=piglin,tag=!ShowDimensionInName] add ShowDimensionInName 
-tag @e[type=piglin_brute,tag=!ShowDimensionInName] add ShowDimensionInName 
-tag @e[type=pillager,tag=!ShowDimensionInName] add ShowDimensionInName
-tag @e[type=polar_bear,tag=!ShowDimensionInName] add ShowDimensionInName 
-tag @e[type=pufferfish,tag=!ShowDimensionInName] add ShowDimensionInName 
-tag @e[type=rabbit,tag=!ShowDimensionInName] add ShowDimensionInName
-tag @e[type=ravager,tag=!ShowDimensionInName] add ShowDimensionInName
-tag @e[type=salmon,tag=!ShowDimensionInName] add ShowDimensionInName
-tag @e[type=slime,tag=!ShowDimensionInName] add ShowDimensionInName
-tag @e[type=sheep,tag=!ShowDimensionInName] add ShowDimensionInName
-tag @e[type=shulker,tag=!ShowDimensionInName] add ShowDimensionInName
-tag @e[type=silverfish,tag=!ShowDimensionInName] add ShowDimensionInName 
-tag @e[type=skeleton,tag=!ShowDimensionInName] add ShowDimensionInName
-tag @e[type=skeleton_horse,tag=!ShowDimensionInName] add ShowDimensionInName 
-tag @e[type=sniffer,tag=!ShowDimensionInName] add ShowDimensionInName
-tag @e[type=snow_golem,tag=!ShowDimensionInName] add ShowDimensionInName 
-tag @e[type=spider,tag=!ShowDimensionInName] add ShowDimensionInName
-tag @e[type=squid,tag=!ShowDimensionInName] add ShowDimensionInName
-tag @e[type=stray,tag=!ShowDimensionInName] add ShowDimensionInName
-tag @e[type=strider,tag=!ShowDimensionInName] add ShowDimensionInName 
-tag @e[type=tadpole,tag=!ShowDimensionInName] add ShowDimensionInName 
-tag @e[type=trader_llama,tag=!ShowDimensionInName] add ShowDimensionInName 
-tag @e[type=tropical_fish,tag=!ShowDimensionInName] add ShowDimensionInName 
-tag @e[type=turtle,tag=!ShowDimensionInName] add ShowDimensionInName 
-tag @e[type=vex,tag=!ShowDimensionInName] add ShowDimensionInName 
-tag @e[type=villager,tag=!ShowDimensionInName] add ShowDimensionInName 
-tag @e[type=vindicator,tag=!ShowDimensionInName] add ShowDimensionInName
-tag @e[type=wandering_trader,tag=!ShowDimensionInName] add ShowDimensionInName 
-tag @e[type=warden,tag=!ShowDimensionInName] add ShowDimensionInName 
-tag @e[type=witch,tag=!ShowDimensionInName] add ShowDimensionInName 
-tag @e[type=wither,tag=!ShowDimensionInName] add ShowDimensionInName 
-tag @e[type=wither_skeleton,tag=!ShowDimensionInName] add ShowDimensionInName 
-tag @e[type=wolf,tag=!ShowDimensionInName] add ShowDimensionInName 
-tag @e[type=zoglin,tag=!ShowDimensionInName] add ShowDimensionInName 
-tag @e[type=zombie,tag=!ShowDimensionInName] add ShowDimensionInName 
-tag @e[type=zombie_horse,tag=!ShowDimensionInName] add ShowDimensionInName 
-tag @e[type=zombie_villager,tag=!ShowDimensionInName] add ShowDimensionInName 
-tag @e[type=zombified_piglin,tag=!ShowDimensionInName] add ShowDimensionInName 
+# tag @e[type=allay,tag=!ShowDimensionInName] add ShowDimensionInName
+# tag @e[type=axolotl,tag=!ShowDimensionInName] add ShowDimensionInName
+# tag @e[type=armadillo,tag=!ShowDimensionInName] add ShowDimensionInName
+# tag @e[type=bat,tag=!ShowDimensionInName] add ShowDimensionInName 
+# tag @e[type=bee,tag=!ShowDimensionInName] add ShowDimensionInName 
+# tag @e[type=blaze,tag=!ShowDimensionInName] add ShowDimensionInName 
+# tag @e[type=bogged,tag=!ShowDimensionInName] add ShowDimensionInName 
+# tag @e[type=breeze,tag=!ShowDimensionInName] add ShowDimensionInName 
+# tag @e[type=cat,tag=!ShowDimensionInName] add ShowDimensionInName 
+# tag @e[type=camel,tag=!ShowDimensionInName] add ShowDimensionInName 
+# tag @e[type=cave_spider,tag=!ShowDimensionInName] add ShowDimensionInName 
+# tag @e[type=chicken,tag=!ShowDimensionInName] add ShowDimensionInName 
+# tag @e[type=cod,tag=!ShowDimensionInName] add ShowDimensionInName 
+# tag @e[type=cow,tag=!ShowDimensionInName] add ShowDimensionInName 
+# tag @e[type=creeper,tag=!ShowDimensionInName] add ShowDimensionInName 
+# tag @e[type=dolphin,tag=!ShowDimensionInName] add ShowDimensionInName 
+# tag @e[type=donkey,tag=!ShowDimensionInName] add ShowDimensionInName 
+# tag @e[type=drowned,tag=!ShowDimensionInName] add ShowDimensionInName 
+# tag @e[type=elder_guardian,tag=!ShowDimensionInName] add ShowDimensionInName 
+# tag @e[type=enderman,tag=!ShowDimensionInName] add ShowDimensionInName 
+# tag @e[type=endermite,tag=!ShowDimensionInName] add ShowDimensionInName 
+# tag @e[type=evoker,tag=!ShowDimensionInName] add ShowDimensionInName 
+# tag @e[type=fox,tag=!ShowDimensionInName] add ShowDimensionInName 
+# tag @e[type=frog,tag=!ShowDimensionInName] add ShowDimensionInName 
+# tag @e[type=ghast,tag=!ShowDimensionInName] add ShowDimensionInName 
+# tag @e[type=glow_squid,tag=!ShowDimensionInName] add ShowDimensionInName 
+# tag @e[type=goat,tag=!ShowDimensionInName] add ShowDimensionInName 
+# tag @e[type=guardian,tag=!ShowDimensionInName] add ShowDimensionInName 
+# tag @e[type=hoglin,tag=!ShowDimensionInName] add ShowDimensionInName 
+# tag @e[type=horse,tag=!ShowDimensionInName] add ShowDimensionInName 
+# tag @e[type=husk,tag=!ShowDimensionInName] add ShowDimensionInName 
+# tag @e[type=illusioner,tag=!ShowDimensionInName] add ShowDimensionInName 
+# tag @e[type=iron_golem,tag=!ShowDimensionInName] add ShowDimensionInName 
+# tag @e[type=llama,tag=!ShowDimensionInName] add ShowDimensionInName 
+# tag @e[type=magma_cube,tag=!ShowDimensionInName] add ShowDimensionInName 
+# tag @e[type=mooshroom,tag=!ShowDimensionInName] add ShowDimensionInName 
+# tag @e[type=mule,tag=!ShowDimensionInName] add ShowDimensionInName 
+# tag @e[type=ocelot,tag=!ShowDimensionInName] add ShowDimensionInName 
+# tag @e[type=panda,tag=!ShowDimensionInName] add ShowDimensionInName 
+# tag @e[type=parrot,tag=!ShowDimensionInName] add ShowDimensionInName 
+# tag @e[type=phantom,tag=!ShowDimensionInName] add ShowDimensionInName 
+# tag @e[type=pig,tag=!ShowDimensionInName] add ShowDimensionInName 
+# tag @e[type=piglin,tag=!ShowDimensionInName] add ShowDimensionInName 
+# tag @e[type=piglin_brute,tag=!ShowDimensionInName] add ShowDimensionInName 
+# tag @e[type=pillager,tag=!ShowDimensionInName] add ShowDimensionInName
+# tag @e[type=polar_bear,tag=!ShowDimensionInName] add ShowDimensionInName 
+# tag @e[type=pufferfish,tag=!ShowDimensionInName] add ShowDimensionInName 
+# tag @e[type=rabbit,tag=!ShowDimensionInName] add ShowDimensionInName
+# tag @e[type=ravager,tag=!ShowDimensionInName] add ShowDimensionInName
+# tag @e[type=salmon,tag=!ShowDimensionInName] add ShowDimensionInName
+# tag @e[type=slime,tag=!ShowDimensionInName] add ShowDimensionInName
+# tag @e[type=sheep,tag=!ShowDimensionInName] add ShowDimensionInName
+# tag @e[type=shulker,tag=!ShowDimensionInName] add ShowDimensionInName
+# tag @e[type=silverfish,tag=!ShowDimensionInName] add ShowDimensionInName 
+# tag @e[type=skeleton,tag=!ShowDimensionInName] add ShowDimensionInName
+# tag @e[type=skeleton_horse,tag=!ShowDimensionInName] add ShowDimensionInName 
+# tag @e[type=sniffer,tag=!ShowDimensionInName] add ShowDimensionInName
+# tag @e[type=snow_golem,tag=!ShowDimensionInName] add ShowDimensionInName 
+# tag @e[type=spider,tag=!ShowDimensionInName] add ShowDimensionInName
+# tag @e[type=squid,tag=!ShowDimensionInName] add ShowDimensionInName
+# tag @e[type=stray,tag=!ShowDimensionInName] add ShowDimensionInName
+# tag @e[type=strider,tag=!ShowDimensionInName] add ShowDimensionInName 
+# tag @e[type=tadpole,tag=!ShowDimensionInName] add ShowDimensionInName 
+# tag @e[type=trader_llama,tag=!ShowDimensionInName] add ShowDimensionInName 
+# tag @e[type=tropical_fish,tag=!ShowDimensionInName] add ShowDimensionInName 
+# tag @e[type=turtle,tag=!ShowDimensionInName] add ShowDimensionInName 
+# tag @e[type=vex,tag=!ShowDimensionInName] add ShowDimensionInName 
+# tag @e[type=villager,tag=!ShowDimensionInName] add ShowDimensionInName 
+# tag @e[type=vindicator,tag=!ShowDimensionInName] add ShowDimensionInName
+# tag @e[type=wandering_trader,tag=!ShowDimensionInName] add ShowDimensionInName 
+# tag @e[type=warden,tag=!ShowDimensionInName] add ShowDimensionInName 
+# tag @e[type=witch,tag=!ShowDimensionInName] add ShowDimensionInName 
+# tag @e[type=wither,tag=!ShowDimensionInName] add ShowDimensionInName 
+# tag @e[type=wither_skeleton,tag=!ShowDimensionInName] add ShowDimensionInName 
+# tag @e[type=wolf,tag=!ShowDimensionInName] add ShowDimensionInName 
+# tag @e[type=zoglin,tag=!ShowDimensionInName] add ShowDimensionInName 
+# tag @e[type=zombie,tag=!ShowDimensionInName] add ShowDimensionInName 
+# tag @e[type=zombie_horse,tag=!ShowDimensionInName] add ShowDimensionInName 
+# tag @e[type=zombie_villager,tag=!ShowDimensionInName] add ShowDimensionInName 
+# tag @e[type=zombified_piglin,tag=!ShowDimensionInName] add ShowDimensionInName 
 
 
 

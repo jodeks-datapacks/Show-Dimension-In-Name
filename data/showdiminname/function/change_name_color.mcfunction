@@ -53,6 +53,7 @@ execute if score &name_color_sdin_end name_color.jodek matches 16 run team modif
 
 
 # end
+execute if score &prefix_color_sdin_end name_color.jodek matches 0 run team modify end prefix [{"text":""}]
 execute if score &prefix_color_sdin_end name_color.jodek matches 1 run team modify end prefix [{"text":"End","color":"aqua"},{"text":" | ","color":"dark_gray"}]
 execute if score &prefix_color_sdin_end name_color.jodek matches 2 run team modify end prefix [{"text":"End","color":"black"},{"text":" | ","color":"dark_gray"}]
 execute if score &prefix_color_sdin_end name_color.jodek matches 3 run team modify end prefix [{"text":"End","color":"blue"},{"text":" | ","color":"dark_gray"}]
@@ -71,6 +72,7 @@ execute if score &prefix_color_sdin_end name_color.jodek matches 15 run team mod
 execute if score &prefix_color_sdin_end name_color.jodek matches 16 run team modify end prefix [{"text":"End","color":"yellow"},{"text":" | ","color":"dark_gray"}]
 
 # nether
+execute if score &prefix_color_sdin_nether name_color.jodek matches 0 run team modify nether prefix [{"text":""}]
 execute if score &prefix_color_sdin_nether name_color.jodek matches 1 run team modify nether prefix [{"text":"Nether","color":"aqua"},{"text":" | ","color":"dark_gray"}]
 execute if score &prefix_color_sdin_nether name_color.jodek matches 2 run team modify nether prefix [{"text":"Nether","color":"black"},{"text":" | ","color":"dark_gray"}]
 execute if score &prefix_color_sdin_nether name_color.jodek matches 3 run team modify nether prefix [{"text":"Nether","color":"blue"},{"text":" | ","color":"dark_gray"}]
@@ -89,6 +91,7 @@ execute if score &prefix_color_sdin_nether name_color.jodek matches 15 run team 
 execute if score &prefix_color_sdin_nether name_color.jodek matches 16 run team modify nether prefix [{"text":"Nether","color":"yellow"},{"text":" | ","color":"dark_gray"}]
 
 # overworld
+execute if score &prefix_color_sdin_overworld name_color.jodek matches 0 run team modify overworld prefix [{"text":""}]
 execute if score &prefix_color_sdin_overworld name_color.jodek matches 1 run team modify overworld prefix [{"text":"Overworld","color":"aqua"},{"text":" | ","color":"dark_gray"}]
 execute if score &prefix_color_sdin_overworld name_color.jodek matches 2 run team modify overworld prefix [{"text":"Overworld","color":"black"},{"text":" | ","color":"dark_gray"}]
 execute if score &prefix_color_sdin_overworld name_color.jodek matches 3 run team modify overworld prefix [{"text":"Overworld","color":"blue"},{"text":" | ","color":"dark_gray"}]

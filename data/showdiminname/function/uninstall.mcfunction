@@ -17,3 +17,5 @@ advancement revoke @a only jodek:root
 scoreboard players set &check_show_dim_in_name check.afk_announcer 0
 
 scoreboard objectives remove help.sdin
+
+scoreboard objectives remove sdin.config
