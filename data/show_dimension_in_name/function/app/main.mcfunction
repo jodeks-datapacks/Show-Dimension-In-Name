@@ -1,0 +1,1 @@
+execute as @a unless score @s sdin.check = @s sdin.check run function show_dimension_in_name:app/initial_dimension
