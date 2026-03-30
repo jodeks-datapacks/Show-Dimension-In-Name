@@ -15,8 +15,8 @@
   ],
   "version_type": "release",
   "dependencies": {
-    "datapack": ["5555ff-lib(optional){modrinth:Lr1LVAwO}{curseforge:1495266}"],
-    "mod": ["5555ff-lib(optional){modrinth:Lr1LVAwO}{curseforge:1495273}"]
+    "datapack": ["5555ff-lib(required){modrinth:Lr1LVAwO}{curseforge:1495266}"],
+    "mod": ["5555ff-lib(required){modrinth:Lr1LVAwO}{curseforge:1495273}"]
   },
   "discord_role_id": "1252026372264689685"
 }
