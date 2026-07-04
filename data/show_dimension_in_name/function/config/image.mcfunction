@@ -16,7 +16,7 @@ function show_dimension_in_name:image/set_image_data {\
     {text: "Show Dimension In Name"},\
     {translate: "show_dimension_in_name.description", fallback: "Shows dimension a player is in"},\
     "",\
-    [{translate: "jodek.datapack_version", fallback: "Datapack version: ", color: "#00a800"}, {text: "v2.5.4", color: "#54fc54"}],\
+    [{translate: "jodek.datapack_version", fallback: "Datapack version: ", color: "#00a800"}, {text: "v2.5.5", color: "#54fc54"}],\
     "",\
     [{translate: "jodek.by", fallback: "By ", color: "#fcfcfc"}, {text: "Jodek", color: "#fcfc54"}],\
     {text: "modrinth.com/datapack/show-dimension-in-name", color: "#a800a8"},\
