@@ -10,6 +10,10 @@ team add overworld
 team add nether
 team add end
 
+team modify overworld seeFriendlyInvisibles false
+team modify nether seeFriendlyInvisibles false
+team modify end seeFriendlyInvisibles false
+
 function show_dimension_in_name:config/sdin_color
 
 advancement revoke @a only show_dimension_in_name:dimension_change_end
