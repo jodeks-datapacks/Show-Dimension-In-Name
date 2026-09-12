@@ -1,6 +1,5 @@
 {
   "values": [
-    "show_dimension_in_name:app/setup",
-    "show_dimension_in_name:app/load_message"
+    "show_dimension_in_name:app/setup"
   ]
 }

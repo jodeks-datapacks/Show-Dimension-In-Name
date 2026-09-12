@@ -9,12 +9,6 @@
       {
         "text": "\"Show Dimension In Name\" (showdimensioninname)"
       },
-      "\n",
-      {
-        "translate": "show_dimension_in_name.description",
-        "fallback": "Shows the dimension a player is currently in next to its name",
-        "color": "#aaaaaa"
-      },
       "\n\n",
       {
         "translate": "jodek.version",
@@ -24,7 +18,7 @@
         "text": " "
       },
       {
-        "text": "2.5.5",
+        "text": "2.6.0",
         "color": "#55ff55"
       },
       "\n",
